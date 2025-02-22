@@ -16,7 +16,7 @@
 
 <div align="left">
 <!-- Gmail -->
-<a href="mailto:kianoush.aqabakee@yahoo.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="yahoo: kianoush.aqabakee@yahoo.com" width="40" height="40"/></a>
+<a href="mailto:kianoush.aqabakee@yahoo.com" target="_blank"><img align="center" src="./images/Contact-via-images/Gmail.png" alt="Gmail: kianoush.aqabakee@gmail.com" width="40" height="40"/></a>
 <!-- LinkedIn -->
 <a href="https://www.linkedin.com/in/kianoush-aqabakee-1611181b3" target="_blank"><img align="center" src="./images/Contact-via-images/LinkedIn.png" alt="www.linkedin.com/in/kianoush-aqabakee-1611181b3" width="40" height="40" /></a>
 <!-- Telegram -->
